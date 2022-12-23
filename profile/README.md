@@ -13,7 +13,6 @@ This makes it impossible to use wonderful libraries like [php-soap/engine](https
 - [Become a Sponsor of Backport author](https://github.com/php-soap-backports/.github/blob/main/HELPING_OUT.md#sponsor)
 - [Contribute to project](https://github.com/php-soap/.github/blob/main/HELPING_OUT.md#contribute)
 - [Contribute to backport project](https://github.com/php-soap-backports/.github/blob/main/HELPING_OUT.md#contribute)
-- 
 
 # Contributing
 
